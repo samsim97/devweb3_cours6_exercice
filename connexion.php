@@ -1,0 +1,5 @@
+<?php
+
+    if (document.getElementByID(""))
+
+?>
